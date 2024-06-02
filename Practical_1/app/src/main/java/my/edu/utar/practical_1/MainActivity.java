@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 //        damn just realized something,once i defined the listview entries inside
 //        strings.xml, i don't even actually need to declare anything inside main_activity.java
-        
+
     }
 }
