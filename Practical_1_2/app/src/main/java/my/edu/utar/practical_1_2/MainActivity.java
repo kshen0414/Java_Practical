@@ -1,4 +1,4 @@
-package my.edu.utar.practical_1;
+package my.edu.utar.practical_1_2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,8 +10,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//        damn just realized something,once i defined the listview entries inside
-//        strings.xml, i don't even actually need to declare anything inside main_activity.java
-        
     }
 }
